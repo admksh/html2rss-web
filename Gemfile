@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'html2rss', git: 'https://github.com/html2rss/html2rss.git'
+gem 'html2rss', git: 'git@github.com:admksh/html2rss.git', branch: 'to-xml-fix'
 gem 'html2rss-configs', git: 'https://github.com/html2rss/html2rss-configs.git'
 
 # Use these instead of the two above (uncomment them) when developing locally:
